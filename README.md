@@ -14,3 +14,5 @@ assignment
 使用DPCM编码，对随机一张灰度图片进行编码和解码，比较不同量化器（1-bit, 2-bit, 4-bit, 8-bit）的重建图像区别，并计算重建图像的PSNR和SSIM值
 ## assignment7
 实验:用matlab或python语言实现大津法和迭代法阈值分割，并实验比较两者的性能差别。
+## assignment8
+使用matlab或python，生成(图片lena)不同空间分辨率、不同灰度分辨率的图片，比较它们的区别
