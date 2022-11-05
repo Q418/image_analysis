@@ -16,3 +16,5 @@ assignment
 实验:用matlab或python语言实现大津法和迭代法阈值分割，并实验比较两者的性能差别。
 ## assignment8
 使用matlab或python，生成(图片lena)不同空间分辨率、不同灰度分辨率的图片，比较它们的区别
+## assignment9
+使用Opencv实现分水岭算法，并进行测试
